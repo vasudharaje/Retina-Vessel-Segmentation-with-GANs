@@ -1,4 +1,4 @@
-# Vessel-wgan-pytorch
+# Vessel-Segmentation-using-pytorch
 
 > Author: Vasudharaje Srivastava
 
